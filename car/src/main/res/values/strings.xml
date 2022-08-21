@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name="home">ДОМОЙ</string>
+    <string name="car">АВТОМОБИЛИ</string>
+    <string name="nameToyota">mvvm</string>
+    <string name="nameHonda">mvvm</string>
+    <string name="nameMercedes">mvvm</string>
+    <string name="nameBentley">mvvm</string>
+    <string name="yearToyota">mvvm</string>
+    <string name="yearHonda">mvvm</string>
+    <string name="yearMercedes">mvvm</string>
+    <string name="yearBentley">mvvm</string>
+    <string name="priceToyota">mvvm</string>
+    <string name="priceHonda">mvvm</string>
+    <string name="priceMercedes">mvvm</string>
+    <string name="priceBentley">mvvm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
